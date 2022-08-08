@@ -1,0 +1,15 @@
+.container {
+  padding: 0 2rem;
+}
+
+.definitions {
+  padding: 0 20px;
+}
+
+.definitions > dt {
+  font-weight: bold;
+}
+
+.definitions > dd {
+  margin: 0 0 10px 20px;
+}
